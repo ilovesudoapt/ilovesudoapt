@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Sriram 👋
 
-<!--
-**ilovesudoapt/ilovesudoapt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
 
-Here are some ideas to get you started:
+## About Me
+- 📚 I'm pursuing B.Com and B.Sc in Data Science from IIT Madras  
+- 💻 Interested in Data Science, Machine Learning, AI, and Business Management  
+- 🚀 Always learning and building projects to sharpen my skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming: Python, C, SQL  
+- Data Science: Pandas, NumPy, Matplotlib  
+- Tools: Git, Excel, Power BI  
+
+## Current Focus
+- Deepening my understanding of machine learning concepts  
+- Exploring AI applications in business and e-commerce  
+
+## Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@example.com)
